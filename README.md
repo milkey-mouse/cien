@@ -1,4 +1,4 @@
-# ![100 emoji](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/72x72/1f4af.png)	cien
+# ![100 emoji](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/36x36/1f4af.png) cien
 
 cien is a simple program to find emoji on the command line.
 
